@@ -1,3 +1,4 @@
+USE mmabooks
 DELIMITER $$
 CREATE DEFINER=`root`@`localhost` PROCEDURE `usp_testingResetData`()
 BEGIN
