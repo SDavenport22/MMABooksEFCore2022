@@ -1,0 +1,8 @@
+# Use this workspace to collaborate
+workspace:
+  id: 7ca392ec-0b28-41bb-8542-93839881a856
+
+localResources:
+  specs:
+    - ../obj/Debug/net6.0/EndpointInfo/MMABOOKSRESTAPI.json
+    - ../obj/Debug/net10.0/EndpointInfo/MMABOOKSRESTAPI.json
